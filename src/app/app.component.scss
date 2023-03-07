@@ -1,0 +1,17 @@
+.centro{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 15px;
+}
+
+ion-note{
+  padding-bottom: 15px;
+}
+
+ion-list img{
+  border-radius: 50%;
+  width: 170px;
+  box-shadow: 0.5px 0.8px 15px gray;
+}

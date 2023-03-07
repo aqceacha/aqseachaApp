@@ -1,0 +1,7 @@
+{
+  "name": "aqceachaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
